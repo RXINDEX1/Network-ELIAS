@@ -1,7 +1,7 @@
 Network ELIAS
 
 <p align="center">
-  <img src="assets/network-elias.png" alt="Network ELIAS" width="850">
+  <img src="IMG_20260927_044602_016.jpg" alt="Network ELIAS" width="850">
 </p><p align="center">
   <b>A lightweight real-time network traffic monitor built with Bash, tcpdump, and awk.</b>
 </p>Network ELIAS displays selected network connections in real time, filters configured IP ranges, removes duplicate connections, and provides colorized terminal output.
@@ -26,18 +26,11 @@ Requirements
 
 Installation
 
-Clone the repository:
-
 git clone https://github.com/RXINDEX1/Network-ELIAS.git
 cd Network-ELIAS
-
-Make the script executable:
-
 chmod +x elias.sh
 
 Usage
-
-Run:
 
 sudo ./elias.sh
 

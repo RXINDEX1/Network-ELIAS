@@ -1,8 +1,10 @@
 Network ELIAS
 
-A lightweight real-time network traffic monitor built with Bash, tcpdump, and awk.
-
-Network ELIAS displays selected network connections in real time, filters configured IP ranges, removes duplicate connections, and provides colorized terminal output.
+<p align="center">
+  <img src="assets/network-elias.png" alt="Network ELIAS" width="850">
+</p><p align="center">
+  <b>A lightweight real-time network traffic monitor built with Bash, tcpdump, and awk.</b>
+</p>Network ELIAS displays selected network connections in real time, filters configured IP ranges, removes duplicate connections, and provides colorized terminal output.
 
 Features
 
@@ -39,7 +41,7 @@ Run:
 
 sudo ./elias.sh
 
-Example output:
+Example Output
 
 [ 1 ] 192.168.1.10 -> 149.154.x.x
 [ 2 ] 192.168.1.10 -> 91.108.x.x
